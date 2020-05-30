@@ -1,0 +1,231 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android"
+        xmlns:app="http://schemas.android.com/apk/res-auto"
+        xmlns:tools="http://schemas.android.com/tools"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        tools:context=".Common_Remdies">
+  <androidx.cardview.widget.CardView
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@drawable/card_viewe"
+            android:elevation="3dp"
+            android:layout_gravity="center"
+            app:cardCornerRadius="10dp">
+
+<LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="#F8F8F8"
+        android:orientation="vertical"
+        tools:context=".Common_Remdies">
+
+    <ScrollView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginBottom="66dp"
+            >
+
+        <LinearLayout
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:orientation="vertical">
+
+            <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/margin20"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="@dimen/margin20">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="20dp"
+                        android:orientation="vertical">
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Common prevention and cure methods"
+                                android:textSize="16sp"
+                                android:textStyle="normal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginTop="5dp"
+                                android:text="1.  Keep the soil under the tree clean and rake up fallen fruit.\n\n2.  Use a thick layer of mulch to cover the soil after you have raked and cleaned it well. Mulch will reduce weeds and prevent the disease pathogen from splashing back up onto the leaves.\n\n3.  Prune or stake plants to improve air circulation. Make sure to disinfect your pruning equipment (one part bleach to 4 parts water) after each cut.\n\n4.  Leaf spot among vegetables is most often introduced through infected seed or transplants. Make sure your seeds and transplants are from leaf spot-free stock.
+"
+                                android:textColor="@color/colorViolet"
+                                android:textSize="14sp"
+                                android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/margin20"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="@dimen/margin20">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="20dp"
+                        android:orientation="vertical">
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Special Protection againsts Bacteria"
+                                android:textSize="16sp"
+                                android:textStyle="normal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginTop="@dimen/margin5"
+                                android:text="1.  Destroy infected plants and apply a fungicide \n\n2. Remove infected plants and ensure proper spacing between new plants
+\n\n3. Discard infected plant and replant new plants in pathogen-free potting soil"
+                                android:textColor="@color/colorViolet"
+                                android:textSize="14sp"
+                                android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/margin20"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="@dimen/margin20">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="20dp"
+                        android:orientation="vertical">
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center"
+                                android:text="Remedy for root borne and spot infections"
+                                android:textSize="16sp"
+                                android:textStyle="normal" />
+                    </LinearLayout>
+
+                    <LinearLayout
+                            android:layout_width="match_parent"
+                            android:layout_height="wrap_content"
+                            android:gravity="left"
+                            android:orientation="horizontal">
+
+
+                        <TextView
+                                android:layout_width="wrap_content"
+                                android:layout_height="wrap_content"
+                                android:layout_gravity="center_vertical"
+                                android:layout_marginTop="@dimen/margin5"
+                                android:text="1.  Use a fungicide for preventative treatment
+\n\n2. Plant resistant varieties for in acidic climates
+\n\n3.  Remove and dispose of infected part of platn and apply a fungicide
+"
+                                android:textColor="@color/colorViolet"
+                                android:textSize="14sp"
+                                android:textStyle="bold" />
+                    </LinearLayout>
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+            <androidx.cardview.widget.CardView
+                    android:layout_width="match_parent"
+                    android:layout_height="wrap_content"
+                    android:layout_centerHorizontal="true"
+                    android:layout_marginLeft="@dimen/margin20"
+                    android:layout_marginTop="10dp"
+                    android:layout_marginRight="@dimen/margin20">
+
+                <LinearLayout
+                        android:layout_width="match_parent"
+                        android:layout_height="wrap_content"
+                        android:layout_gravity="center"
+                        android:layout_margin="20dp"
+                        android:orientation="vertical">
+
+                </LinearLayout>
+
+            </androidx.cardview.widget.CardView>
+
+
+        </LinearLayout>
+    </ScrollView>
+
+</LinearLayout>
+        <me.ibrahimsn.lib.SmoothBottomBar
+                android:id="@+id/bottom_nav"
+                android:layout_width="match_parent"
+                android:layout_height="66dp"
+                android:paddingTop="2dp"
+                app:iconSize="25dp"
+                app:textSize="16sp"
+                android:layout_gravity="bottom"
+                android:elevation="16dp"
+                android:padding="8dp"
+                app:backgroundColor="@color/colorPrimary"
+                app:menu="@menu/newmenu"
+                android:layout_alignParentBottom="true"/>
+    </androidx.cardview.widget.CardView>
+
+</androidx.coordinatorlayout.widget.CoordinatorLayout>
