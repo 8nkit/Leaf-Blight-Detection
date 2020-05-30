@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Leaf Blight Detection</string>
+    <string name="buttonSelectPhoto">Gallary</string>
+    <string name="buttonTakePhoto">Camera</string>
+    <string name="buttonDiagnose">Detect</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="defaultImage">  </string>
+    <string name="descriptionImage">View for displaying image</string>
+    <string name="submit">Submit</string>
+    <string name="loading">Loading</string>
+</resources>
