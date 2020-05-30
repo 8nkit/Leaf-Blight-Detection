@@ -1,0 +1,12 @@
+<component name="libraryTable">
+  <library name="Gradle: com.github.razir.progressbutton:progressbutton:2.1.0@aar">
+    <CLASSES>
+      <root url="jar://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8640d873a69b3c42209794ec5c865172/jars/classes.jar!/" />
+      <root url="file://$USER_HOME$/.gradle/caches/transforms-2/files-2.1/8640d873a69b3c42209794ec5c865172/res" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES>
+      <root url="jar://$USER_HOME$/.gradle/caches/modules-2/files-2.1/com.github.razir.progressbutton/progressbutton/2.1.0/d94072498f59d83692e2b78a450aa81e47662823/progressbutton-2.1.0-sources.jar!/" />
+    </SOURCES>
+  </library>
+</component>
