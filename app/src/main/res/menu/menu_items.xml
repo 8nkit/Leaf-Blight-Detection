@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <group android:checkableBehavior="single">
+        <item
+                android:id="@+id/home"
+                android:icon="@drawable/ic_home_black1_24dp"
+                android:iconTint="@android:color/white"
+                android:title="Home " />
+    </group>
+
+    <item android:id="@+id/remdy" android:title="Remedy"
+            android:icon="@drawable/ic_multiline_chart_black_24dp"
+            android:iconTint="@android:color/white"/>
+
+    <item android:id="@+id/about" android:title="About Us"
+            android:icon="@drawable/ic_people_black_24dp"
+            android:iconTint="@android:color/white"/>
+
+
+</menu>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    >
+
+    <item
+        android:id="@+id/item0"
+        android:title="Home"
+        android:icon="@drawable/ic_home_black1_24dp"
+
+        />
+
+    <item
+        android:id="@+id/item1"
+        android:title="Remedy"
+        android:icon="@drawable/ic_multiline_chart_black_24dp"
+        />
+    <item
+            android:id="@+id/item2"
+            android:title="About Us"
+            android:icon="@drawable/ic_person_outline_black_24dp"
+            />
+
+
+</menu>
